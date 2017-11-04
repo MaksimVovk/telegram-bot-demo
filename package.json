@@ -23,5 +23,9 @@
     "node-telegram-bot-api": "^0.29.0",
     "nodemon": "^1.12.1",
     "request": "^2.83.0"
+  },
+  "engines": {
+  "node": "8.6.x",
+  "npm": "5.4.x"
   }
 }
