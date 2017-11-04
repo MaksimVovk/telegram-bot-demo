@@ -1,0 +1,27 @@
+{
+  "name": "telegram-bot-demo",
+  "version": "1.0.0",
+  "description": "App for study telegram API",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimVovk/telegram-bot-demo.git"
+  },
+  "author": "m.vovk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimVovk/telegram-bot-demo/issues"
+  },
+  "homepage": "https://github.com/MaksimVovk/telegram-bot-demo#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "needle": "^2.0.1",
+    "node-telegram-bot-api": "^0.29.0",
+    "nodemon": "^1.12.1",
+    "request": "^2.83.0"
+  }
+}

@@ -1,2 +1,2 @@
 # telegram-bot-demo
-App for study telegram API 
+I created this app, for test telegram API
